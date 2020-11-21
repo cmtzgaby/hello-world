@@ -1,2 +1,6 @@
 # hello-world
-Empezando a usar GitHub
+
+Hola Mundo y galaxia!!!
+
+
+APRENDAMOS COSAS NUEVAS
